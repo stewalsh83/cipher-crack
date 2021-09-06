@@ -1,0 +1,39 @@
+
+Assignment info:
+    Caesar Cipher or Substitution Cipher
+    Decrypt gitlab files (well designed and commented code)
+    see if you can make any improvements in the speed
+    time it see how long it takes to crack code (report it)
+
+Code:
+    INPUT:
+        your program should take a text file as input
+        It should analyse that file.
+    
+    OUTPUT:
+        two files as its output
+        file output name - filename-decrypted.txt (print filename %s-decrypted.txt)
+        key file         - filename-key.txt
+        Key file should take the form 
+        letter = cipher-letter
+        i.e  A = D
+
+Files:
+    - the cipher text for all files = two-cities-caesar-cipher.txt
+    - The plain text for all files  = two-cities.txt
+    - The key for all files         = two-cities-caesar-key.txt
+
+
+Report:
+    Write a report (900-1000 word report)
+    Using my files section
+
+Read:
+    The Codebook by Simon Singh
+
+Start:
+    write program that can read and write txt files.
+    
+
+// Ref:
+// https://www.programiz.com/c-programming/c-file-input-output
