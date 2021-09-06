@@ -1,20 +1,22 @@
 # Cipher Crack
 
-## Caesar Cipher
+## Description
+This project uses caesar cipher to decrypt a given text file. The text file must be entered in the cammand line as the first argument. The user will then be prompted to enter an int value as the key to determine how many letters in the alphabet to shift.
 
-* To run
+## Usage
 ```bash
 .\caesar-cipher two-cities-caesar-cipher.txt
 ```
 
-* Enter Key prompt
 ```bash
 Enter Number (Key): 4
 ```
 
-## Output
 Produces two files as the output.
 
-* A decrypted version of two-cities-caesar-cipher.txt
+* two-cities-caesar-cipher-decrypted.txt
 
-* A .txt file display the key shifts
+* two-cities-caesar-cipher-key.txt
+
+## Project status
+This was an individual student project with room for improvements.
