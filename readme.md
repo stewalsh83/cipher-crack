@@ -1,7 +1,7 @@
 # Cipher Crack
 
 ## Description
-This project uses caesar cipher to decrypt a given text file. The text file must be entered in the cammand line as the first argument. The user will then be prompted to enter an int value as the key to determine how many letters in the alphabet to shift.
+This project uses caesar cipher to decrypt a given text file. The text file must be entered in the cammand line as the first argument. The user will then be prompted to enter an int value as the key to determine how many letters in the alphabet will be shifted.
 
 ## Usage
 ```bash
